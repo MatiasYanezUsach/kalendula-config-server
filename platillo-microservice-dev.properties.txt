@@ -1,0 +1,6 @@
+platillo.property=Platillo Profile Dev
+
+spring.application.name=platillo-microservice
+spring.datasource.url=jdbc:postgresql://localhost:5432/inventario
+spring.datasource.username=postgres
+spring.datasource.password=postgres
